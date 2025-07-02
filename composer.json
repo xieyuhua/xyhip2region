@@ -1,0 +1,25 @@
+{
+  "type": "library",
+  "name": "xieyuhua/xyhip2region",
+  "homepage": "https://github.com/xieyuhua/xyhip2region",
+  "description": "Ip2Region for PHP",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Xyh",
+      "email": "1130107545@qq.com",
+      "homepage": "http://ctolog.com"
+    }
+  ],
+  "keywords": [
+    "Ip2Region"
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "classmap": [
+      "Ip2Region.php"
+    ]
+  }
+}
