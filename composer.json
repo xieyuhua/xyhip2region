@@ -15,7 +15,7 @@
     "Ip2Region"
   ],
   "require": {
-    "php": ">=5.3"
+    "php": ">=7.3"
   },
   "autoload": {
     "classmap": [
