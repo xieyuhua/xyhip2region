@@ -52,7 +52,7 @@ _城市Id|国家|区域|省份|城市|ISP_
 ### Composer 安装
 
 ```
-composer require zoujingli/ip2region
+composer require xieyuhua/xyhip2region
 ```
 
 ### ip2region 使用
